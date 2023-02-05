@@ -1,0 +1,11 @@
+name: Flowers
+version: 0.1
+description: Flowers
+author: _SilverPhoenix
+main: net.heropixels.flowers.Flowers
+api-version: 1.17
+commands:
+  Flowers:
+    aliases: [f]
+  FlowerToggle:
+    aliases: [ft]
